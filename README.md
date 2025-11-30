@@ -37,11 +37,6 @@ This demonstrates clean separation of responsibilities:
 
 ---
 
-## 🔄 Architecture Diagram
-
-
-
-
 ---
 
 ## 🧠 Why This Project?
